@@ -1,1 +1,1 @@
-export * from './orbitdb_kit/orbitv3-slave-swarm';
+export * from './orbitdb_kit_py/orbitv3-slave-swarm';

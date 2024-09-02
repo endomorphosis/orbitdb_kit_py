@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-	name='orbitdb_kit',
-	version='0.0.4',
+	name='orbitdb_kit_py',
+	version='0.0.5',
 	packages=[
-		'orbitdb_kit',
+		'orbitdb_kit_py',
 	],
 	install_requires=[
 		'datasets',
