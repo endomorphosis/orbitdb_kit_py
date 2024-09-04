@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
 	name='orbitdb_kit_py',
-	version='0.0.5',
+	version='0.0.9',
 	packages=[
 		'orbitdb_kit_py',
 	],
@@ -12,6 +12,7 @@ setup(
 		'requests',
 		'boto3',
         'toml',
+        'websocket'
 	],
     package_data={
         'orbitdb_kit': [
